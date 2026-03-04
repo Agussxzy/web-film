@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import NavbarComponent from "../components/navBarComponent";
 
 const moviePage = () => {
   return (
-    <div>moviePage</div>
-  )
-}
+    <>
+      <NavbarComponent />
+    </>
+  );
+};
 
-export default moviePage    
+export default moviePage;
