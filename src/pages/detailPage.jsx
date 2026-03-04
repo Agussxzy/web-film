@@ -38,7 +38,7 @@ const AnimeDetailPage = () => {
   return (
     <>
     <NavbarComponent />
-      <Container className="mt-5 p-4 bg-dark text-white rounded shadow-sm">
+      <Container className="mt-5 p-4 bg-dark text-white rounded shadow-sm" style={{marginTop: '8rem'}}>
         <Row>
           {/* Kolom Kiri: Poster */}
           <Col md={4} className="mb-4">
