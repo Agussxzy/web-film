@@ -23,7 +23,7 @@ function NavbarComponent() {
           to="/" 
           className="fw-bold fs-3 text-white d-flex align-items-center"
         >
-          <span style={{ color: '#0d6efd' }}>OTAKU</span>HUB
+          <span style={{ color: '#0d6efd' }}>Ani</span>Stream
         </Navbar.Brand>
         
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="border-0 shadow-none" />
