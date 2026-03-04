@@ -35,7 +35,7 @@ const InputComponent = ({ setValueInput }) => {
         }}
       >
         <Form.Control
-          placeholder="Cari anime faforitmu"
+          placeholder="Cari anime favoritmu"
           className="bg-transparent border-0 text-white ps-3"
           style={{ 
             boxShadow: 'none', 
